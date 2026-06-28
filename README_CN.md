@@ -1,6 +1,6 @@
 # OIRF: Open Industry Research Format
 
-> 中文 | [English](#oirf-open-industry-research-format-english)
+> 中文 | [English](./README.md)
 
 ## OIRF：开放行业研究格式
 
